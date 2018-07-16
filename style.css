@@ -1,0 +1,16 @@
+body {
+  height: 100vh;
+  background: #fff url(6.jpg) repeat;
+  /*background-size:cover;*/
+  
+}
+
+.jumbotron {
+  background: transparent;
+}
+
+#mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
+
+
+
+

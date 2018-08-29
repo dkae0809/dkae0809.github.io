@@ -25,7 +25,6 @@ a, a:hover, a:active {
 .display-3 {
   font-size: calc( 10px + (20 - 12) * ( (100vw - 400px) / ( 800 - 400) ));
   padding: 0;
-  line-height: 2.5rem;
   list-style: none;
 }
 

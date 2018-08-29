@@ -2,14 +2,33 @@ body {
   height: 100vh;
   background: #fff url(6.jpg) repeat;
   /*background-size:cover;*/
-  
+}
+a, a:hover, a:active {
+  text-decoration: none;
 }
 
 .jumbotron {
   background: transparent;
+  width: 55vw;
 }
 
-#mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
+.display-1 {
+  font-size: calc( 82px + (50 - 12) * ( (100vw - 400px) / ( 800 - 400) ));
+  font-family: 'Heebo', sans-serif;
+}
+
+.display-2 {
+  font-size: calc( 12px + (30 - 12) * ( (100vw - 400px) / ( 800 - 400) ));
+  font-family: 'Heebo', sans-serif;
+}
+
+.display-3 {
+  font-size: calc( 10px + (20 - 12) * ( (100vw - 400px) / ( 800 - 400) ));
+  padding: 0;
+  line-height: 2.5rem;
+  list-style: none;
+}
+
 
 
 
